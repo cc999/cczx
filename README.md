@@ -1,5 +1,5 @@
 <p><a href="http://yfde.undo.it"><img src="https://github.com/cc999/cczx/blob/master/ddd.jpg" /></a></p>
- <hr>
+<hr>
 <a href="http://yfde.undo.it">网站首页</a>&nbsp;
 <a href="http://yfde.undo.it/fl/dfjj/" >法轮功简介</a>&nbsp;
 <a href="http://yfde.undo.it/fl/dfhc/" >大法洪传</a>&nbsp;
@@ -15,9 +15,9 @@
 <a href="http://yfde.undo.it/fl/hzqg/" >活摘器官</a>&nbsp;
 <a href="http://yfde.undo.it/fl/ping3/" >九评三退</a>&nbsp;
 <a href="http://yfde.undo.it/fl/whzj/" >文化正见</a>
- <hr>
- <b>真相专题：</b>&nbsp;
- <a href="http://zhenxiang.biz/fl/jlph/phxx/">最新迫害消息</a>&nbsp;
+<hr>
+<b>真相专题：</b>&nbsp;
+<a href="http://zhenxiang.biz/fl/jlph/phxx/">最新迫害消息</a>&nbsp;
 <a href="http://zhenxiang.biz/fl/ywpl/news/">法轮功要闻</a>&nbsp;
 <a href="http://zhenxiang.biz/fl/spyx/fbjm/">吉林省诉江案例</a>&nbsp;
 <a href="http://zhenxiang.biz/fl/zcgj/">追查国际吉林动态</a>&nbsp;
@@ -26,8 +26,13 @@
 <a href="http://zhenxiang.biz/fl/xejg/lylxnb/">吉林省中共洗脑班</a>&nbsp;
 <a href="http://zhenxiang.biz/fl/zehw/">吉林省各地黑窝</a>&nbsp;
 <a href="http://zhenxiang.biz/fl/erbg/">吉林省恶人榜</a>&nbsp;
-<a href="http://zhenxiang.biz/fl/jlph/kxns/">中共百种酷刑</a>                            
- <hr>
- <p>本页固定网址：<a href="https://github.com/cc999/cczx">https://github.com/cc999/cczx/blob/master/README.md</a><br>
- 本页固定短网址：<a href="https://git.io/viRaG">https://git.io/viRaG</a><br>
- http后一定要跟s</p>
+<a href="http://zhenxiang.biz/fl/jlph/kxns/">中共百种酷刑</a>
+<hr>
+<b>九评三退：</b>&nbsp;
+<a href="http://zhenxiang.biz/fl/ping3/pping/">《九评共产党》在线阅读</a>&nbsp;
+<a href="http://zhenxiang.biz/310.html">大纪元郑重声明</a>&nbsp;
+<a href="http://zhenxiang.biz/pro/?id=5" title="点击声明退出党团队">三退通道</a>
+<hr>
+<p>本页固定网址：<a href="https://github.com/cc999/cczx">https://github.com/cc999/cczx/blob/master/README.md</a><br>
+本页固定短网址：<a href="https://git.io/viRaG">https://git.io/viRaG</a><br>
+http后一定要跟s</p>
