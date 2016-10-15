@@ -16,6 +16,18 @@
 <a href="http://yfde.undo.it/fl/ping3/" >九评三退</a>&nbsp;
 <a href="http://yfde.undo.it/fl/whzj/" >文化正见</a>
  <hr>
+ <b>真相专题：</b>
+ <a href="http://zhenxiang.biz/fl/jlph/phxx/">最新迫害消息</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/ywpl/news/">法轮功要闻</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/spyx/fbjm/">吉林省诉江案例</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/zcgj/">追查国际吉林动态</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/hzqg/ssxhz/">吉林省涉活摘单位</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/jlph/phzsh/">吉林省迫害综述</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/xejg/lylxnb/">吉林省中共洗脑班</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/zehw/">吉林省各地黑窝</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/erbg/">吉林省恶人榜</a>&nbsp;
+<a href="http://zhenxiang.biz/fl/jlph/kxns/">中共百种酷刑</a>                            
+ <hr>
  <p>本页固定网址：<a href="https://github.com/cc999/cczx">https://github.com/cc999/cczx/blob/master/README.md</a><br>
  本页固定短网址：<a href="https://git.io/viRaG">https://git.io/viRaG</a><br>
  http后一定要跟s</p>
