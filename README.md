@@ -38,7 +38,7 @@
 <p><a href="http://yfde.undo.it/fl/jlph/dscb/"><img style="border-bottom:1px solid #C0C0C0" src="https://github.com/cc999/cczx/blob/master/s05.jpg" width="200px" height="109px"/></a><br><a href="http://yfde.undo.it/fl/jlph/dscb/">2002长春电视真相插播</a>
 <p><a href="http://yfde.undo.it/23587.html"><img style="border-bottom:1px solid #C0C0C0" src="https://github.com/cc999/cczx/blob/master/s06.jpg" width="200px" height="121px"/></a><br><a href="http://yfde.undo.it/23587.html">视频:法轮大法日纽约万人大游行</a>
 <hr>
-<p><a href="http://yfde.undo.it/pow/"><img style="border-bottom:1px solid #C0C0C0" src="https://github.com/cc999/cczx/blob/master/s06.jpg" width="200px" height="121px"/></a><br><a href="http://yfde.undo.it/pow/">免费翻墙软件下载</a>
+<p><a href="http://yfde.undo.it/pow/"><img style="border-bottom:1px solid #C0C0C0" src="https://github.com/cc999/cczx/blob/master/zy.jpg" width="200px" height="121px"/></a><br><a href="http://yfde.undo.it/pow/">免费翻墙软件下载</a>
 <hr>
 <p>长春真相网旨在为华人读者，特别是大陆吉林省读者提供一个全面了解真相的平台。
 <p>主要转载明慧网、追查国际网站文章，介绍法轮功洪传全世界、使人身心健康、道德回升的事实，揭开中共谎言诬陷和残酷迫害法轮功以及活摘法轮功学员器官的黑幕，报道全球法轮功反迫害活动和全世界民众退出中共大潮，同时深入揭露发生在吉林省内的残酷迫害，曝光各地参与迫害的恶人和黑窝。
