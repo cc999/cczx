@@ -33,6 +33,11 @@
 <a href="http://zhenxiang.biz/310.html">大纪元郑重声明</a>&nbsp;
 <a href="http://zhenxiang.biz/pro/?id=5" title="点击声明退出党团队">三退通道</a>
 <hr>
+<b>推荐阅读：</b><br>
+<p><a href="http://zhenxiang.biz/fl/jchy/zfwa/"><img style="border-bottom:1px solid #C0C0C0" src="http://zhenxiang.biz/wp-content/themes/SiteCms/images/zf.gif" width="200px" height="150px"/></a><br><a href="http://zhenxiang.biz/fl/jchy/zfwa/">“天安门自焚”伪案</a>
+<p><a href="http://zhenxiang.biz/fl/jlph/dscb/"><img style="border-bottom:1px solid #C0C0C0" src="http://zhenxiang.biz/wp-content/themes/SiteCms/images/s05.jpg" width="200px" height="109px"/></a><br><a href="http://zhenxiang.biz/fl/jlph/dscb/">2002长春电视真相插播</a>
+<p><a href="http://zhenxiang.biz/23587.html"><img style="border-bottom:1px solid #C0C0C0" src="http://zhenxiang.biz/wp-content/themes/SiteCms/images/s06.jpg" width="200px" height="121px"/></a><br><a href="http://zhenxiang.biz/23587.html">视频:法轮大法日纽约万人大游行</a>
+<hr>
 <p>本页固定网址：<a href="https://github.com/cc999/cczx">https://github.com/cc999/cczx/blob/master/README.md</a><br>
 本页固定短网址：<a href="https://git.io/viRaG">https://git.io/viRaG</a><br>
 http后一定要跟s</p>
