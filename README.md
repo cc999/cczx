@@ -16,7 +16,6 @@
 <a href="http://yfde.undo.it/fl/ping3/" >九评三退</a>
 <a href="http://yfde.undo.it/fl/whzj/" >文化正见</a>
  <hr>
- <p>本页固定网址：<a href="https://github.com/cc999/cczx">https://github.com/cc999/cczx</a><br>
- 本页固定短网址：<a href="https://git.io/viR2v">https://git.io/viR2v</a><br>
+ <p>本页固定网址：<a href="https://github.com/cc999/cczx">https://github.com/cc999/cczx/blob/master/README.md</a><br>
  本页固定短网址：<a href="https://git.io/viRaG">https://git.io/viRaG</a><br>
  http后一定要跟s</p>
